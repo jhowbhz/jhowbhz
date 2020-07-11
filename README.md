@@ -1,22 +1,24 @@
-### Hi there 👋
+### Hi peoples 👋
 
-I love what I do, codes for love <3
+I am Jhon, love what i do, codes for love 💛
 
-My Skills: 
-Bootstrap
-CSS3
-HTML5
-JavaScript
-JQuery
-MySQL
-Python
-PHP OO
-Laravel
-ReactNative
-Cordova
-Apache
-Nginx
-Linux
+### 📜 My Skills: 
+✔️ Bootstrap
+✔️ CSS3
+✔️ HTML5
+✔️ JavaScript
+✔️ JQuery
+✔️ MySQL
+✔️ Python
+✔️ PHP OO
+✔️ Laravel
+✔️ ReactNative
+✔️ Cordova
+✔️ Apache
+✔️ Nginx
+✔️ Linux
 
-- 🔭 I’m currently working with ...
-@backofficesolucoes
+- 🔭 I'm currently working with ...
+
+https://www.backofficesolucoes.io
+https://www.onassistencia.com.br/
