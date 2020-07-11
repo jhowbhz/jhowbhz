@@ -2,7 +2,7 @@
 
 I am Jhon, love what i do, codes for love 💛
 
-|  ### 📜 My Skills:|
+|📜 My Skills |  |
 |-	|-	|
 | ✔️ Bootstrap  |✔️ JQuery	        |
 | ✔️ CSS3	      | ✔️ Apache	        |
