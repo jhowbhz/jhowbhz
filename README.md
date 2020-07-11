@@ -2,9 +2,17 @@
 
 I am Jhon, love what i do, codes for love 💛
 
-### 📜 My Skills: 
+### 📜 My Skills:
+|✔️ Bootstrap |   	|
+|---	|---	|
+|---	|---	|
+|---	|---	|
+|---	|---	|
+|---	|---	|
+|---	|---	|
+|---	|---	|
 <ol>
-<li>✔️ Bootstrap</li>
+<li></li>
 <li>✔️ CSS3</li>
 <li>✔️ HTML</li>
 <li>✔️ JavaScript</li>
