@@ -5,13 +5,15 @@ I am Jhon, love what i do, codes for love 💛
 ### 📜 My Skills:
 
 | ✔️ Bootstrap  | ✔️ JQuery	|
+|-	|-	|
 | ✔️ CSS3	      | ✔️ Apache	|
 | ✔️ HTML	      | ✔️ Nginx	|
 | ✔️ JavaScript	| ✔️ ReactNative |
 | ✔️ Python	    | ✔️ PHP OO	|
 | ✔️ Laravel  	| ✔️ Cordova |
 | ✔️ MariaDB  	|✔️ Linux	|
-|	|	|
+|-	|-	|
+
 - 🔭 I'm currently working with ...
 
 [BackOffice Soluções](https://www.backofficesolucoes.io "Clique e acesse agora!")
