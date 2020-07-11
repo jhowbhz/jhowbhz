@@ -3,7 +3,7 @@
 I am Jhon, love what i do, codes for love 💛
 
 ### 📜 My Skills: 
-<ins></ins>✔️ Bootstrap
+✔️ Bootstrap
 
 ✔️ CSS3
 
