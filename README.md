@@ -3,30 +3,14 @@
 I am Jhon, love what i do, codes for love 💛
 
 ### 📜 My Skills:
-|✔️ Bootstrap |   	|
-|---	|---	|
-|---	|---	|
-|---	|---	|
-|---	|---	|
-|---	|---	|
-|---	|---	|
-|---	|---	|
-<ol>
-<li></li>
-<li>✔️ CSS3</li>
-<li>✔️ HTML</li>
-<li>✔️ JavaScript</li>
-<li>✔️ JQuery</li>
-<li>✔️ MySQL</li>
-<li>✔️ Python</li>
-<li>✔️ PHP OO</li>
-<li>✔️ Laravel</li>
-<li>✔️ ReactNative</li>
-<li>✔️ Cordova</li>
-<li>✔️ Apache</li>
-<li>✔️ Nginx</li>
-<li>✔️ Linux</li>
-</ol>
+| ✔️ Bootstrap  | ✔️ JQuery	|
+| ✔️ CSS3	      | ✔️ Apache	|
+| ✔️ HTML	      | ✔️ Nginx	|
+| ✔️ JavaScript	| ✔️ ReactNative |
+| ✔️ Python	    | ✔️ PHP OO	|
+| ✔️ Laravel  	| ✔️ Cordova |
+| ✔️ MariaDB  	|✔️ Linux	|
+
 - 🔭 I'm currently working with ...
 
 [BackOffice Soluções](https://www.backofficesolucoes.io "Clique e acesse agora!")
