@@ -2,16 +2,8 @@
 
 I am Jhon, love what i do, codes for love 💛
 
-|📜 My Skills |  |
-|-	|-	|
-| ✔️ Bootstrap  |✔️ JQuery	        |
-| ✔️ CSS3	      | ✔️ Apache	        |
-| ✔️ HTML	      | ✔️ Nginx	        |
-| ✔️ JavaScript	| ✔️ React Native   |
-| ✔️ Python	    | ✔️ PHP OO	        |
-| ✔️ Laravel  	| ✔️ Cordova        |
-| ✔️ MariaDB  	| ✔️ Linux	        |
-
+### 📜 My Skills
+| ✔️ Bootstrap, JQuery, CSS3HTML, Apache, Nginx, JavaScript, React Native, Python, PHP OO, Laravel, Cordova, MariaDB, Linux
 
 - 🔭 I'm currently working with ...
 
