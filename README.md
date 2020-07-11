@@ -7,8 +7,10 @@ I am Jhon, love what i do, codes for love 💛
 
 - 🔭 I'm currently working with ...
 
-[BackOffice Soluções](https://www.backofficesolucoes.io "Clique e acesse agora!")
--
+<p>
+  [BackOffice Soluções](https://www.backofficesolucoes.io "Clique e acesse agora!")
+</p>
+<p>
 [On Assistência Auto](https://www.onassistencia.com.br "Clique e acesse agora!")
--
+</p>
 
