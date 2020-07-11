@@ -11,7 +11,7 @@ I am Jhon, love what i do, codes for love 💛
 | ✔️ JavaScript	| ✔️ React Native |
 | ✔️ Python	    | ✔️ PHP OO	|
 | ✔️ Laravel  	| ✔️ Cordova |
-| ✔️ MariaDB  	|✔️ Linux	|
+| ✔️ MariaDB  	| ✔️ Linux	|
 |-	|-	|
 
 - 🔭 I'm currently working with ...
