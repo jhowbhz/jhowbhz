@@ -4,7 +4,7 @@ I am Jhon, love what i do, codes for love 💛
 
 ### 📜 My Skills:
 
-| ✔️ Bootstrap  | ✔️ JQuery	|
+| ✔️ Bootstrap  |✔️ JQuery	|
 |-	|-	|
 | ✔️ CSS3	      | ✔️ Apache	|
 | ✔️ HTML	      | ✔️ Nginx	|
