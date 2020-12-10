@@ -1,39 +1,18 @@
-### Hi peoples 👋
+<p align="left"> 
+   Hi peoples, my name is Jonathan I am <strong>FullStack Developer</strong>.<br>
+   I love what i do, codes for love 💛
+</p>
 
-I am Jhon, love what i do, codes for love 💛
+<p align="left">
+  🦄 Skills: <strong>Bootstrap, CSS3 ,HTML5, Nginx, Apache, AWS/DigitalOcean, JavaScript, JQuery, Cordova, React Native, Python ,PHP OO, Laravel, SQL and Linux <3</strong>
+</p>
 
-### 📜 My Skills
-| ✔️ Bootstrap
-
-Bootstrap/CSS3
-
-HTML5
-
-Nginx
-
-Apache
-
-AWS/DigitalOcean
-
-JavaScript
-
-JQuery
-
-Cordova
-
-React Native
-
-Python
-
-PHP OO
-
-Laravel
-
-SQL and Linux <3
+<p align="left">
+  💼 Tools: <strong>Visual Studio Code, PhotoShop, Figma, Adobe XD, Git e GitHub.</strong>
+</p>
 
 - 🔭 I'm currently working with ...
 
-[BackOffice Soluções](https://www.backofficesolucoes.io "Clique e acesse agora!") 
-[On Assistência Auto](https://www.onassistencia.com.br "Clique e acesse agora!")
+[BackOffice Soluções](https://www.backofficesolucoes.io "Clique e acesse agora!") and [On Assistência Auto](https://www.onassistencia.com.br "Clique e acesse agora!")
 
 
