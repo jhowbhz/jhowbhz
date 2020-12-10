@@ -5,16 +5,30 @@ I am Jhon, love what i do, codes for love 💛
 ### 📜 My Skills
 | ✔️ Bootstrap
 
-CSS3HTML
-Apache
+Bootstrap/CSS3
+
+HTML5
+
 Nginx
+
+Apache
+
+AWS/DigitalOcean
+
 JavaScript
+
 JQuery
+
 Cordova
+
 React Native
+
 Python
+
 PHP OO
+
 Laravel
+
 SQL and Linux <3
 
 - 🔭 I'm currently working with ...
