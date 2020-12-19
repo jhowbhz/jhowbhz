@@ -13,6 +13,6 @@
 
 - 🔭 I'm currently working with ...
 
-[BackOffice Soluções](https://www.backofficesolucoes.io "Clique e acesse agora!") and [On Assistência Auto](https://www.onassistencia.com.br "Clique e acesse agora!")
+[BackOffice Soluções](https://www.backofficesolucoes.io "Clique e acesse agora!"), [Contrate um Dev](https://www.contrateumdev.com.br "Clique e acesse agora!") and [On Assistência Auto](https://www.onassistencia.com.br "Clique e acesse agora!")
 
 
