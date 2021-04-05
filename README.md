@@ -11,8 +11,10 @@
   💼 Tools: <strong>Visual Studio Code, PhotoShop, Figma, Adobe XD, Git e GitHub.</strong>
 </p>
 
-- 🔭 I'm currently working [with](https://sourcerer.io/jhowbhz) ...
+- 🔭 my jobs...
 
-[BackOffice Soluções](https://www.backofficesolucoes.io "Clique e acesse agora!"), [Contrate um Dev](https://www.contrateumdev.com.br "Clique e acesse agora!") and [On Assistência Auto](https://www.onassistencia.com.br "Clique e acesse agora!")
+[BackOffice Soluções](https://www.backofficesolucoes.io "Clique e acesse agora!"),
+[Projeto Contrate um Dev](https://www.contrateumdev.com.br "Clique e acesse agora!") 
+and [On Assistência Auto](https://www.onassistencia.com.br "Clique e acesse agora!")
 
 
