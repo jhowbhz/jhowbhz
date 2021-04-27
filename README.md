@@ -15,6 +15,6 @@
 
 [BackOffice Soluções](https://www.backofficesolucoes.io "Clique e acesse agora!"),
 [API Grátis](https://www.apigratis.com.br "Clique e acesse agora!"),
-[Projeto Contrate um Dev](https://www.contrateumdev.com.br "Clique e acesse agora!") 
+[Projeto Contrate um Dev](https://www.contrateumdev.com.br "Clique e acesse agora!") and 
 [On Assistência Auto](https://www.onassistencia.com.br "Clique e acesse agora!"),
 E-Shopper (Em breve)
