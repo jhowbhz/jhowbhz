@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>Bootstrap, CSS3 ,HTML5, Nginx, Apache, AWS/DigitalOcean, JavaScript, JQuery, Cordova, React Native, Python ,PHP OO, Laravel, SQL and Linux <3</strong>
+  🦄 Skills: <strong>Bootstrap, CSS3 ,HTML5, Nginx, Apache, AWS/DigitalOcean, JavaScript, JQuery, Cordova, React Native, PHP, Laravel, Node, Python, SQL, Linux <3 and more... </strong>
 </p>
 
 <p align="left">
