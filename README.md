@@ -11,7 +11,9 @@
   💼 Dev tools: <strong> VSCode, PhotoShop, Figma, Adobe XD, Git</strong>
 </p>
 
-- 🔭 My projects and jobs...
+<p align="left">
+🔭 My projects and jobs: 
+</p>
 
 [BackOffice Soluções](https://www.backofficesolucoes.io "Clique e acesse agora!"),
 [API Grátis](https://www.apigratis.com.br "Clique e acesse agora!"),
