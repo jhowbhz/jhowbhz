@@ -4,15 +4,15 @@
 </p>
 
 <p align="left">
-  🦄 Minhas skills: <strong>Bootstrap, CSS3 ,HTML5, Nginx, Apache, AWS/DigitalOcean, JavaScript, JQuery, Cordova, React Native, PHP, Laravel, Node, Python, MySql, SQL, Linux <3 and more... </strong>
+  🦄  Minhas skills: <strong>Bootstrap, CSS3 ,HTML5, Nginx, Apache, AWS/DigitalOcean, JavaScript, JQuery, Cordova, React Native, PHP, Laravel, Node, Python, MySql, SQL, Linux <3 and more... </strong>
 </p>
 
 <p align="left">
-  💼 Dev tools: <strong> VSCode, PhotoShop, Figma, Adobe XD, Git</strong>
+  💼  Dev tools: <strong> VSCode, PhotoShop, Figma, Adobe XD, Git</strong>
 </p>
 
 <p align="left">
-🔭 My projects and jobs: 
+🔭  My projects and jobs: 
 </p>
 
 [BackOffice Soluções](https://www.backofficesolucoes.io "Clique e acesse agora!"),
