@@ -1,7 +1,5 @@
-<p align="left"> 
-   Hi peoples, my name is Jhon, i <strong>FullStack Developer</strong>.<br>
-   I love what i do, codes for love 💛
-</p>
+# Hi, my name is Jhon, I'm a FullStack Developer based in Brazil 👋
+## I love what i do, codes for love 💛
 
 <p align="left">
   🦄  Minhas skills: <strong>Bootstrap, CSS3 ,HTML5, Nginx, Apache, AWS/DigitalOcean, JavaScript, JQuery, Cordova, React Native, PHP, Laravel, Node, Python, MySql, SQL, Linux <3 and more... </strong>
