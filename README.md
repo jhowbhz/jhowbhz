@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  💼  Dev tools: <strong> VSCode, PhotoShop, Figma, Adobe XD, Git</strong>
+  💼  Dev tools: <strong> Visual Studio Code, Photoshop, Figma, Adobe XD, Git and more...</strong>
 </p>
 
 <p align="left">
-🔭  My projects and jobs: 
+🔭  My current projects: 
 </p>
 
 [BackOffice Soluções](https://www.backofficesolucoes.io "Clique e acesse agora!"),
