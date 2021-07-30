@@ -1,8 +1,8 @@
-# Hi, my name is Jhon, I'm a FullStack Developer based in Brazil 👋
-## I love what i do, codes for love 💛
+# Hi, my name is John, I'm a Full Stack Developer livin Brazil👋
+## I love what i do 💛
 
 <p align="left">
-  🦄  Minhas skills: <strong>Bootstrap, CSS3 ,HTML5, Nginx, Apache, AWS/DigitalOcean, JavaScript, JQuery, Cordova, React Native, PHP, Laravel, Node, Python, MySql, SQL, Linux <3 and more... </strong>
+  🦄  Minhas skills: <strong>PHP, Laravel, Node, Python, MySql, SQL, Bootstrap, Nginx, Apache, AWS/Heroku/DigitalOcean, JavaScript, JQuery, Cordova, React Native, Linux <3 and more... </strong>
 </p>
 
 <p align="left">
