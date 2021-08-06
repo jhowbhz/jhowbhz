@@ -1,4 +1,4 @@
-## Hi, my name is John, I'm a Full Stack Developer livin Brazil👋
+## Hi, my name is John, I'm a Full Stack Developer living Brazil👋
 
 <p align="left">
   🦄  Skills dev: <strong>PHP, Laravel, Node, Python, MySql, SQL, Bootstrap, Nginx, Apache, AWS/Heroku/DigitalOcean, JavaScript, JQuery, Cordova, React Native, Linux and more... </strong>
