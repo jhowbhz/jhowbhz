@@ -25,10 +25,10 @@
 <tr>
 <td>
 
-✔️ [BackOffice Soluções](https://www.backofficesolucoes.io "Clique e acesse agora!")
+✔️ [BackOffice](https://www.backofficesolucoes.io "Clique e acesse agora!")
 ✔️ [API Grátis](https://www.apigratis.com.br "Clique e acesse agora!")
-✔️ [On Assistência Auto](https://www.onassistencia.com.br "Clique e veja :D")
-✔️ [E-Commerce Laravel](https://www.laboutiquesavassi.com.br "Clique e veja um exemplo")
+✔️ [On Assistência](https://www.onassistencia.com.br "Clique e veja :D")
+✔️ [E-Commerce](https://www.laboutiquesavassi.com.br "Clique e veja um exemplo")
 ⏱️ [API Brasil](https://www.apibrasil.com.br "Projeto em andamento...")
 ⏱️ [Contrate um Dev](https://www.contrateumdev.com.br "Projeto em andamento...")
 ⏱️ [Pesquisa seguro](https://www.pesquisaseguro.com.br "Projeto em andamento...")
