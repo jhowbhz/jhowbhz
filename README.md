@@ -17,23 +17,23 @@
 [![WHATSAPP](https://img.shields.io/badge/Stackoverflow-black?style=for-the-badge&logo=stackoverflow)](https://pt.stackoverflow.com/users/128217/jhowbhz)
 
 <table width="100%">
-  <tr>
-    <th align="left"> 
-    🔭  My current projects 
-    </th>
-  </tr>
-  <tr>
-    <td>
+<tr>
+<th align="left"> 
+🔭  My current projects 
+</th>
+</tr>
+<tr>
+<td>
 
-    ✔️ [BackOffice](https://www.backofficesolucoes.io "Clique e acesse agora!")
-    ✔️ [API Grátis](https://www.apigratis.com.br "Clique e acesse agora!")
-    ✔️ [On Assistência](https://www.onassistencia.com.br "Clique e veja :D")
-    ✔️ [E-Commerce](https://www.laboutiquesavassi.com.br "Clique e veja um exemplo")
-    ⏱️ [API Brasil](https://www.apibrasil.com.br "Projeto em andamento...")
-    ⏱️ [Contrate um Dev](https://www.contrateumdev.com.br "Projeto em andamento...")
-    ⏱️ [Pesquisa seguro](https://www.pesquisaseguro.com.br "Projeto em andamento...")
+✔️ [BackOffice](https://www.backofficesolucoes.io "Clique e acesse agora!")
+✔️ [API Grátis](https://www.apigratis.com.br "Clique e acesse agora!")
+✔️ [On Assistência](https://www.onassistencia.com.br "Clique e veja :D")
+✔️ [E-Commerce](https://www.laboutiquesavassi.com.br "Clique e veja um exemplo")
+⏱️ [API Brasil](https://www.apibrasil.com.br "Projeto em andamento...")
+⏱️ [Contrate um Dev](https://www.contrateumdev.com.br "Projeto em andamento...")
+⏱️ [Pesquisa seguro](https://www.pesquisaseguro.com.br "Projeto em andamento...")
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
