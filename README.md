@@ -31,6 +31,7 @@
 ✔️ [E-Commerce Laravel](https://www.laboutiquesavassi.com.br "Clique e veja um exemplo")
 ⏱️ [API Brasil](https://www.apibrasil.com.br "Projeto em andamento...")
 ⏱️ [Contrate um Dev](https://www.contrateumdev.com.br "Projeto em andamento...")
+⏱️ [Pesquisa seguro](https://www.pesquisaseguro.com.br "Projeto em andamento...")
 
 </td>
 </tr>
