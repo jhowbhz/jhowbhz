@@ -1,13 +1,16 @@
 ## Hi, my name is John, I'm a Full Stack Developer living Brazil👋
 
 <p align="left">
-  🦄  Skills dev: <strong>PHP, Laravel, Node, Python, MySql, SQL, Bootstrap, Nginx, Apache, AWS/Heroku/DigitalOcean, JavaScript, JQuery, Cordova, React Native, Linux and more... </strong>
+  👨‍💻  <strong>Dev skills:</strong> PHP, Laravel, Node, Python, MySql, SQL, Bootstrap, Nginx, Apache, AWS/Heroku/DigitalOcean, JavaScript, JQuery, Cordova, React Native, Linux and more... 
 </p>
 
 <p align="left">
-  💼  Dev tools: <strong> Visual Studio Code, Photoshop, Figma, Adobe XD, Git and more...</strong>
+  🧰  <strong>Dev tools:</strong> VSCode, Photoshop, Workbench, Putty, Figma, Adobe XD, Git and more...
 </p>
 
+<p align="left">
+  👴  <strong>Dev experience:</strong> Sênior 
+</p>
 
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jhowbhz/)
 [![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/jhowbhz)
