@@ -36,3 +36,8 @@
 </td>
 </tr>
 </table>
+
+<p align=left>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jhowbhz&show_icons=true" alt="jhowbhz" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhowbhz&layout=compact" alt="jhowbhz" />
+</p>
