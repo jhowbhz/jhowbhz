@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  👴  <strong>Dev experience:</strong> Sênior 
+  👴  <strong>Dev experience:</strong> 7 years, sênior 
 </p>
 
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jhowbhz/)
@@ -27,11 +27,10 @@
 
 ✔️ [BackOffice Soluções](https://www.backofficesolucoes.io "Clique e acesse agora!")
 ✔️ [API Grátis](https://www.apigratis.com.br "Clique e acesse agora!")
-⏱️ [API Brasil](https://www.apibrasil.com.br "Clique e acesse agora!")
-⏱️ [Contrate um Dev](https://www.contrateumdev.com.br "Projeto em andamento...")
 ✔️ [On Assistência Auto](https://www.onassistencia.com.br "Clique e veja :D")
 ✔️ [E-Commerce Laravel](https://www.laboutiquesavassi.com.br "Clique e veja um exemplo")
-
+⏱️ [API Brasil](https://www.apibrasil.com.br "Projeto em andamento...")
+⏱️ [Contrate um Dev](https://www.contrateumdev.com.br "Projeto em andamento...")
 
 </td>
 </tr>
