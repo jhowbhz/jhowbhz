@@ -1,29 +1,29 @@
-## Hi, my name is John, I'm a Full Stack Developer living Brazil👋
+## Hi, my name John, I Full Stack Developer living Brazil👋
 
 <p align="left">
-  👨‍💻  <strong>Dev skills:</strong> PHP, Laravel, Node, Python, MySql, SQL, Bootstrap, Nginx, Apache, AWS/Heroku/DigitalOcean, JavaScript, JQuery, Cordova, React Native, Linux and more... 
+  👨‍💻  <strong>Dev skills:</strong> PHP, Laravel, Node, Python, MYSQL, SQL, Bootstrap, Nginx, Apache, JavaScript, JQuery, Cordova, ReactNative, Linux
 </p>
 
 <p align="left">
   🧰  <strong>Dev tools:</strong> VSCode, Photoshop, Workbench, Putty, Figma, Adobe XD, Git and more...
 </p>
 
-<p align="left">
-  👴  <strong>Dev experience:</strong> 7 years, sênior 
-</p>
+<p align="left"> 👴  <strong>Dev experience:</strong> 7 years, sênior</p>
 
-[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jhowbhz/)
-[![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/jhowbhz)
-[![WHATSAPP](https://img.shields.io/badge/Stackoverflow-black?style=for-the-badge&logo=stackoverflow)](https://pt.stackoverflow.com/users/128217/jhowbhz)
+<p> 📫 <strong>Infos contact</strong></p>
 
-<table width="100%">
-<tr>
-<th align="left"> 
-🔭  My current projects 
-</th>
-</tr>
-<tr>
-<td>
+[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=flat-square&&logo=linkedin)](https://www.linkedin.com/in/jhowbhz/)
+[![TWITTER](https://img.shields.io/badge/Twitter-black?style=flat-square&&logo=twitter)](https://twitter.com/jhowbhz)
+[![WHATSAPP](https://img.shields.io/badge/Stackoverflow-black?style=flat-square&&logo=stackoverflow)](https://pt.stackoverflow.com/users/128217/jhowbhz)
+<p> :rocket: <strong>Experience DevOps </strong></p>
+
+![digitalocean](https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&logo=digitalocean)
+![Google Cloud](https://img.shields.io/badge/G%20Cloud-black?style=flat-square&logo=google-cloud)
+![Amazon AWS](https://img.shields.io/badge/Amazon-232F3E?style=flat-square&logo=amazon-aws)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+<hr />
+
+<p> :trophy: <strong>My current projects</strong> </p>
 
 ✔️ [BackOffice](https://www.backofficesolucoes.io "Clique e acesse agora!")
 ✔️ [API Grátis](https://www.apigratis.com.br "Clique e acesse agora!")
@@ -32,8 +32,3 @@
 ⏱️ [API Brasil](https://www.apibrasil.com.br "Projeto em andamento...")
 ⏱️ [Contrate um Dev](https://www.contrateumdev.com.br "Projeto em andamento...")
 ⏱️ [Pesquisa seguro](https://www.pesquisaseguro.com.br "Projeto em andamento...")
-
-</td>
-</tr>
-</table>
-
