@@ -5,17 +5,17 @@
 </p>
 
 <p align="left">
-  🧰  <strong>Dev tools:</strong> VSCode, Photoshop, Workbench, Putty, Figma, Adobe XD, Git and more...
+  🧰  <strong>Dev tools:</strong> VSCode, Workbench, Putty, Figma, Photoshop, Adobe XD, Git and more...
 </p>
 
-<p align="left"> 👴  <strong>Dev experience:</strong> 7 years, sênior</p>
+<p align="left"> 👴 <strong>Dev experience:</strong> 7 years, sênior</p>
 
 <p> 📫 <strong>Infos contact</strong></p>
 
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=flat-square&&logo=linkedin)](https://www.linkedin.com/in/jhowbhz/)
 [![TWITTER](https://img.shields.io/badge/Twitter-black?style=flat-square&&logo=twitter)](https://twitter.com/jhowbhz)
 [![WHATSAPP](https://img.shields.io/badge/Stackoverflow-black?style=flat-square&&logo=stackoverflow)](https://pt.stackoverflow.com/users/128217/jhowbhz)
-<p> :rocket: <strong>Experience DevOps </strong></p>
+<p> :rocket: <strong>DevOps experience </strong></p>
 
 ![digitalocean](https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&logo=digitalocean)
 ![Google Cloud](https://img.shields.io/badge/G%20Cloud-black?style=flat-square&logo=google-cloud)
