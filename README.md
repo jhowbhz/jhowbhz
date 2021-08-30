@@ -1,24 +1,23 @@
 ## Hi, my name John, I Full Stack Developer living Brazil <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px">
 
-<p align="left"> 👨‍💻  <strong>Dev skills:</strong> PHP, Laravel, Node, Python, MYSQL, SQL, Bootstrap, Nginx, Apache, JavaScript, JQuery, Cordova, ReactNative, Linux </p>
-
-<p align="left"> 🧰  <strong>Dev tools:</strong> VSCode, Workbench, Putty, Figma, Photoshop, Adobe XD, Git </p>
-
-<p align="left"> 👴 <strong>Dev experience:</strong> 7 years, sênior</p>
+👨‍💻  <strong>Dev skills:</strong> PHP, Laravel, Node, Python, MYSQL, SQL, Bootstrap, Nginx, Apache, JavaScript, JQuery, Cordova, ReactNative, Linux <br />
+🧰  <strong>Dev tools:</strong> VSCode, Workbench, Putty, Figma, Photoshop, Adobe XD, Git <br />
+👴 <strong>Dev experience:</strong> 7 years, sênior</p>
 
 <p> 📫 <strong>Infos contact</strong></p>
 
-[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=flat-square&&logo=linkedin)](https://www.linkedin.com/in/jhowbhz/)
-[![TWITTER](https://img.shields.io/badge/Twitter-black?style=flat-square&&logo=twitter)](https://twitter.com/jhowbhz)
-[![WHATSAPP](https://img.shields.io/badge/Stackoverflow-black?style=flat-square&&logo=stackoverflow)](https://pt.stackoverflow.com/users/128217/jhowbhz)
+[![LINKEDIN](https://img.shields.io/badge/Linkedin-6633cc?style=flat-square&&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhowbhz/)
+[![TWITTER](https://img.shields.io/badge/Twitter-6633cc?style=flat-square&&logo=twitter&logoColor=white)](https://twitter.com/jhowbhz)
+[![WHATSAPP](https://img.shields.io/badge/Stackoverflow-6633cc?style=flat-square&&logo=stackoverflow&logoColor=white)](https://pt.stackoverflow.com/users/128217/jhowbhz)
+
 <p> :rocket: <strong>DevOps experience </strong></p>
 
-![digitalocean](https://img.shields.io/badge/-Digital%20Ocean-black?style=flat-square&logo=digitalocean)
-![Google Cloud](https://img.shields.io/badge/G%20Cloud-black?style=flat-square&logo=google-cloud)
-![Amazon AWS](https://img.shields.io/badge/Amazon-232F3E?style=flat-square&logo=amazon-aws)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-<hr />
+![digitalocean](https://img.shields.io/badge/-Digital%20Ocean-6633cc?style=flat-square&logo=digitalocean&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/G%20Cloud-6633cc?style=flat-square&logo=google-cloud&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon-6633cc?style=flat-square&logo=amazon-aws&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-6633cc?style=flat-square&logo=heroku&logoColor=white)
 
+<hr />
 <p> :trophy: <strong>My current projects</strong> </p>
 
 ✔️ [BackOffice](https://www.backofficesolucoes.io "Clique e acesse agora!")
