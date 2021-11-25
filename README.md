@@ -2,7 +2,8 @@
 
 👨‍💻  <strong>Dev skills:</strong> PHP, Laravel, Node, Python, MYSQL, SQL, Bootstrap, Nginx, Apache, JavaScript, JQuery, Cordova, ReactNative, Linux <br />
 🧰  <strong>Dev tools:</strong> VSCode, Workbench, Putty, Figma, Photoshop, Adobe XD, Git <br />
-👴 <strong>Dev experience:</strong> 7 years, sênior</p>
+👴 <strong>Dev experience:</strong> 7 years, sênior<br />
+🔖 <strong>My snippets:</strong> https://gist.github.com/jhowbhz</p>
 
 <p> 📫 <strong>Infos contact</strong></p>
 
@@ -21,9 +22,9 @@
 <p> :trophy: <strong>My current projects</strong> </p>
 
 ✔️ [BackOffice](https://www.backofficesolucoes.io "Clique e acesse agora!")
-✔️ [API Grátis](https://www.apigratis.com.br "Clique e acesse agora!")
-✔️ [On Assistência](https://www.onassistencia.com.br "Clique e veja :D")
+✔️ [APIGrátis](https://www.apigratis.com.br "Clique e acesse agora!")
+✔️ [On](https://www.onassistencia.com.br "Clique e veja :D")
 ✔️ [E-Commerce](https://www.laboutiquesavassi.com.br "Clique e veja um exemplo")
-⏱️ [API Brasil](https://www.apibrasil.com.br "Projeto em andamento...")
-⏱️ [Contrate um Dev](https://www.contrateumdev.com.br "Projeto em andamento...")
-⏱️ [Pesquisa seguro](https://www.pesquisaseguro.com.br "Projeto em andamento...")
+⏱️ [APIBrasil](https://www.apibrasil.com.br "Finalizando...")
+⏱️ [ContrateDev](https://www.contrateumdev.com.br "Projeto em andamento...")
+⏱️ [PesquisaSeguro](https://www.pesquisaseguro.com.br "Projeto em andamento...")
