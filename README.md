@@ -7,16 +7,16 @@
 
 <p> 📫 <strong>Infos contact</strong></p>
 
-[![LINKEDIN](https://img.shields.io/badge/Linkedin-6633cc?style=flat-square&&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhowbhz/)
-[![TWITTER](https://img.shields.io/badge/Twitter-6633cc?style=flat-square&&logo=twitter&logoColor=white)](https://twitter.com/jhowbhz)
-[![WHATSAPP](https://img.shields.io/badge/Stackoverflow-6633cc?style=flat-square&&logo=stackoverflow&logoColor=white)](https://pt.stackoverflow.com/users/128217/jhowbhz)
+[![LINKEDIN](https://img.shields.io/badge/Linkedin-334ccc?style=flat-square&&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhowbhz/)
+[![TWITTER](https://img.shields.io/badge/Twitter-334ccc?style=flat-square&&logo=twitter&logoColor=white)](https://twitter.com/jhowbhz)
+[![WHATSAPP](https://img.shields.io/badge/Stackoverflow-334ccc?style=flat-square&&logo=stackoverflow&logoColor=white)](https://pt.stackoverflow.com/users/128217/jhowbhz)
 
 <p> :rocket: <strong>DevOps experience </strong></p>
 
-![digitalocean](https://img.shields.io/badge/-Digital%20Ocean-6633cc?style=flat-square&logo=digitalocean&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/G%20Cloud-6633cc?style=flat-square&logo=google-cloud&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon-6633cc?style=flat-square&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-6633cc?style=flat-square&logo=heroku&logoColor=white)
+![digitalocean](https://img.shields.io/badge/-Digital%20Ocean-334ccc?style=flat-square&logo=digitalocean&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/G%20Cloud-334ccc?style=flat-square&logo=google-cloud&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon-334ccc?style=flat-square&logo=amazon-aws&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-334ccc?style=flat-square&logo=heroku&logoColor=white)
 
 <hr />
 <p> :trophy: <strong>My current projects</strong> </p>
