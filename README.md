@@ -7,9 +7,10 @@
 
 <p> 📫 <strong>Infos contact</strong></p>
 
-[![LINKEDIN](https://img.shields.io/badge/Linkedin-334ccc?style=flat-square&&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhowbhz/)
-[![TWITTER](https://img.shields.io/badge/Twitter-334ccc?style=flat-square&&logo=twitter&logoColor=white)](https://twitter.com/jhowbhz)
-[![WHATSAPP](https://img.shields.io/badge/Stackoverflow-334ccc?style=flat-square&&logo=stackoverflow&logoColor=white)](https://pt.stackoverflow.com/users/128217/jhowbhz)
+[![LINKEDIN](https://img.shields.io/badge/Linkedin-0072b1?style=flat-square&&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhowbhz/)
+[![FACEBOOK](https://img.shields.io/badge/Facebook-4267B2?style=flat-square&&logo=facebook&logoColor=white)](https://www.facebook.com/jhowbhz/)
+[![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&&logo=twitter&logoColor=white)](https://twitter.com/jhowbhz)
+[![WHATSAPP](https://img.shields.io/badge/Stackoverflow-F47F24?style=flat-square&&logo=stackoverflow&logoColor=white)](https://pt.stackoverflow.com/users/128217/jhowbhz)
 
 <p> :rocket: <strong>DevOps experience </strong></p>
 
