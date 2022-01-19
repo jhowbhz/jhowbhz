@@ -21,11 +21,11 @@
 <hr />
 <p> :trophy: <strong>My current projects</strong> </p>
 
-✔️ [BackOffice](https://www.backofficesolucoes.io "Clique e acesse agora!")
 ✔️ [APIBrasil](https://www.apibrasil.com.br "Finalizando...")
 ✔️ [APIGrátis](https://www.apigratis.com.br "Clique e acesse agora!")
-✔️ [OnAss](https://www.onassistencia.com.br "Clique e veja :D")
-✔️ [DivulgaWhats](https://app.divulgawhats.com "Clique e veja :D")
+✔️ [BackOffice](https://www.backofficesolucoes.io "Clique e acesse agora!")
+✔️ [OnAss](https://www.onassistencia.com.br "Clique e acesse agora!")
+✔️ [DivulgaWhats](https://app.divulgawhats.com "Clique e acesse agora!")
 ✔️ [E-Commerce](https://www.laboutiquesavassi.com.br "Clique e veja um exemplo")
 <br />
 ⏱️ [ContrateDev](https://www.contrateumdev.com.br "Projeto em andamento...")
