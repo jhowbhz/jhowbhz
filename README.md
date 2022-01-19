@@ -3,7 +3,7 @@
 👨‍💻  <strong>Dev skills:</strong> PHP, Laravel, Node, Python, MYSQL, SQL, Bootstrap, Nginx, Apache, JavaScript, JQuery, Cordova, ReactNative, Linux <br />
 🧰  <strong>Dev tools:</strong> VSCode, Workbench, Putty, Figma, Photoshop, Adobe XD, Git <br />
 👴 <strong>Dev experience:</strong> 7 years, sênior<br />
-🔖 <strong>My snippets:</strong> https://gist.github.com/jhowbhz</p>
+🔖 <strong>My snippets:</strong> <a href="https://gist.github.com/jhowbhz" target="_blank"> Visualizar </a> </p>
 
 <p> 📫 <strong>Infos contact</strong></p>
 
