@@ -1,4 +1,4 @@
-## Hi, my name John, I Full Stack Developer living Brazil <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px">
+## Hi, my name is John, i software engineer from Brazil <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px">
 
 👨‍💻  <strong>Dev skills:</strong> PHP, Laravel, Node, Python, MYSQL, SQL, Bootstrap, Nginx, Apache, JavaScript, JQuery, Cordova, ReactNative, Linux <br />
 🧰  <strong>Dev tools:</strong> VSCode, Workbench, Putty, Figma, Photoshop, Adobe XD, Git <br />
