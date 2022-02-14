@@ -1,6 +1,6 @@
 ## Hi, my name is John, i software engineer from Brazil <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px">
 
-👨‍💻  <strong>Dev skills:</strong> PHP, Laravel, Node, Python, MYSQL, Bootstrap, Nginx, JavaScript, JQuery, Cordova, ReactNative, Docker, Linux <br />
+👨‍💻  <strong>Dev skills:</strong> PHP, Laravel, Zend, Node, Python, MYSQL, Bootstrap, Nginx, JavaScript, JQuery, Cordova, ReactNative, Docker, Linux <br />
 🧰  <strong>Dev tools:</strong> VSCode, Workbench, Putty, Figma, Photoshop, Adobe XD, Git <br />
 👴 <strong>Dev experience:</strong> 7 years, sênior<br />
 🔖 <strong>My snippets:</strong> <a href="https://gist.github.com/jhowbhz" target="_blank"> Visualizar </a> </p>
