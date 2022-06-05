@@ -1,4 +1,4 @@
-## Hi, my name is John, i software engineer from Brazil
+## Hi, my name is John, i software engineer from Brazil 🇧🇷
 
 👨‍💻  <strong>Dev skills:</strong> PHP, Laravel, Zend, Node, Python, MYSQL, Bootstrap, Nginx, JavaScript, JQuery, Cordova, ReactNative, Docker, Linux <br />
 🧰  <strong>Dev tools:</strong> VSCode, Workbench, Putty, Figma, Photoshop, Adobe XD, Git <br />
