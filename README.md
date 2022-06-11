@@ -1,9 +1,9 @@
 ## Hi, my name is John, i software engineer from Brazil ✈️
 
-👨‍💻  <strong>Dev skills:</strong> PHP, Laravel, Zend, Node, Python, MYSQL, Bootstrap, Nginx, JavaScript, JQuery, Cordova, ReactNative, Docker, Linux <br />
-🧰  <strong>Dev tools:</strong> VSCode, Workbench, Putty, Figma, Photoshop, Adobe XD, Git <br />
-👴 <strong>Dev experience:</strong> 7 years, sênior<br />
-🔖 <strong>My snippets:</strong> <a href="https://gist.github.com/jhowbhz" target="_blank"> Visualizar </a> </p>
+👨‍💻  <strong>Dev Skills:</strong> PHP, Laravel, Zend, Node, Python, MYSQL, Bootstrap, Nginx, JavaScript, JQuery, Cordova, ReactNative, Docker, Linux <br />
+🧰  <strong>Dev Tools:</strong> Visual Code, Git, Workbench, Putty, Figma, Photoshop, Adobe XD <br />
+👴 <strong>Dev Experience:</strong> 7 years, sênior<br />
+🔖 <a href="https://gist.github.com/jhowbhz" target="_blank"> <strong>My Examples</strong> </a> </p>
 
 <p> 📫 <strong>Infos contact</strong></p>
 
