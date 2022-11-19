@@ -26,7 +26,7 @@
 ✔️ [DivulgaWhats](https://app.divulgawhats.com "Clique e acesse agora!")
 ✔️ [BackOffice](https://www.backofficesolucoes.io "Clique e acesse agora!")
 <br />
-⏱️ [ContrateDev](https://www.contrateumdev.com.br "Projeto em andamento...")
+✔️ [ConsultaPlacas](https://consultaplacas.com.br "Clique e acesse agora!")
 ⏱️ [PesquisaSeguro](https://www.pesquisaseguro.com.br "Projeto em andamento...")
 ⏱️ [ProgramadorBrasil](https://www.programadorbrasil.com.br "Projeto em andamento...")
 
