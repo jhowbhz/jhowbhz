@@ -1,4 +1,4 @@
-## Hi, my name is John, i software engineer from Brazil ✈️
+## Hey, how've you been? I'm John a software engineer based in Brazil 🇧🇷✈️
 
 👨‍💻  <strong>Skills:</strong> PHP, Laravel, Zend, Node, Python, MYSQL, Bootstrap, Nginx, JavaScript, JQuery, Cordova, ReactNative, Docker, Linux <br />
 🧰  <strong>Tools:</strong> Visual Code, Git, Workbench, Putty, Figma, Photoshop, Adobe XD <br />
