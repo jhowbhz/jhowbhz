@@ -1,8 +1,8 @@
 ## Hey, how've you been? I'm John a software engineer based in Brazil 🇧🇷✈️
 
-👨‍💻  <strong>Skills:</strong> PHP, Laravel, Zend, Node, Python, MYSQL, Bootstrap, Nginx, JavaScript, JQuery, Cordova, ReactNative, Docker, Linux <br />
+👨‍💻  <strong>Skills:</strong> PHP, Laravel, Node JS, Python, MYSQL, DevOps, JavaScript, Cordova, React Native, Linux <br />
 🧰  <strong>Tools:</strong> Visual Code, Git, Workbench, Putty, Figma, Photoshop, Adobe XD <br />
-👴 <strong>Experience:</strong> 7 years, sênior<br />
+👴 <strong>Experience:</strong> 8 years, sênior<br />
 🔖 <a href="https://gist.github.com/jhowbhz" target="_blank"> <strong>My Examples</strong> </a> </p>
 
 <p> 📫 <strong>Contact</strong></p>
@@ -10,7 +10,7 @@
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-0072b1?style=flat-square&&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhowbhz/)
 [![FACEBOOK](https://img.shields.io/badge/Facebook-4267B2?style=flat-square&&logo=facebook&logoColor=white)](https://www.facebook.com/jhowbhz/)
 [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&&logo=twitter&logoColor=white)](https://twitter.com/jhowbhz)
-[![WHATSAPP](https://img.shields.io/badge/Stackoverflow-F47F24?style=flat-square&&logo=stackoverflow&logoColor=white)](https://pt.stackoverflow.com/users/128217/jhowbhz)
+[![STACKOVERFLOW](https://img.shields.io/badge/Stackoverflow-F47F24?style=flat-square&&logo=stackoverflow&logoColor=white)](https://pt.stackoverflow.com/users/128217/jhowbhz)
 
 <p> :rocket: <strong>DevOps </strong></p>
 
@@ -24,9 +24,8 @@
 
 ✔️ [APIGratis](https://www.apigratis.com.br "Clique e acesse agora!")
 ✔️ [DivulgaWhats](https://app.divulgawhats.com "Clique e acesse agora!")
-✔️ [BackOffice](https://www.backofficesolucoes.io "Clique e acesse agora!")
-<br />
 ✔️ [ConsultaPlacas](https://consultaplacas.com.br "Clique e acesse agora!")
+<br />
 ⏱️ [PesquisaSeguro](https://www.pesquisaseguro.com.br "Projeto em andamento...")
 ⏱️ [ProgramadorBrasil](https://www.programadorbrasil.com.br "Projeto em andamento...")
 
