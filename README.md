@@ -22,12 +22,12 @@
 <hr />
 <p> :trophy: <strong>My current projects</strong> </p>
 
-✔️ [APIGratis](https://www.apigratis.com.br "Clique e acesse agora!")
-✔️ [DivulgaWhats](https://app.divulgawhats.com "Clique e acesse agora!")
+✔️ [APIBrasil](https://apibrasil.com.br "Clique e acesse agora!")
+✔️ [DivulgaWhats](https://divulgawhats.com "Clique e acesse agora!")
 ✔️ [ConsultaPlacas](https://consultaplacas.com.br "Clique e acesse agora!")
 <br />
-⏱️ [PesquisaSeguro](https://www.pesquisaseguro.com.br "Projeto em andamento...")
-⏱️ [ProgramadorBrasil](https://www.programadorbrasil.com.br "Projeto em andamento...")
+⏱️ [PesquisaSeguro](https://pesquisaseguro.com.br "Projeto em andamento...")
+⏱️ [ProgramadorBrasil](https://programadorbrasil.com.br "Projeto em andamento...")
 
 <div>
   
