@@ -19,10 +19,14 @@ app.get('/', async (req, res) => {
     //add message in response
     res.json({ 
       message: "Hey, how've you been? I'm John a software engineer based in Brazil 🇧🇷✈️",
-      skills: ["PHP", "Laravel", "Node JS", "Python", "MYSQL", "DevOps", "JavaScript", "Cordova", "React Native", "Linux"],
-      tools: ["Visual Code", "Git", "Workbench", "Putty", "Figma", "Photoshop", "Adobe XD"],
       experience: "8 years, sênior 👴",
+      linkedin: "https://www.linkedin.com/in/jhowbhz",
+      twitter: "https://twitter.com/jhowbhz",
+      github: "https://github.com/jhowbhz",
+      whatsapp: "https://wa.me/5531994359434",
+      tools: ["Visual Code", "Git", "Workbench", "Putty", "Figma", "Photoshop", "Adobe XD"],
       examples: "https://gist.github.com/jhowbhz",
+      skills: ["PHP", "Laravel", "Node JS", "Python", "MYSQL", "DevOps", "JavaScript", "Cordova", "React Native", "Linux"],
       projects: [
           {
               name: "APIBrasil",
@@ -40,10 +44,6 @@ app.get('/', async (req, res) => {
               url: "https://whitelabel.apibrasil.com.br",
           }
       ],
-      linkedin: "https://www.linkedin.com/in/jhowbhz",
-      twitter: "https://twitter.com/jhowbhz",
-      github: "https://github.com/jhowbhz",
-      whatsapp: "https://wa.me/5531994359434",
       opensource: repositories
     });
 
