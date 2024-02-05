@@ -26,17 +26,17 @@ app.get('/', async (req, res) => {
       projects: [
           {
               name: "APIBrasil",
-              description: "Plataforma Multi API para desenvolvedores",
+              description: "Platform with several APIs for developers",
               url: "https://apibrasil.com.br"
           },
           {
               name: "DivulgaWhats",
-              description: "Central de mensagens para WhatsApp",
+              description: "Dashboard and controller to send bulk messages on WhatsApp",
               url: "https://whitelabel.divulgawhats.com",
           },
           {
               name: "API WhatsApp",
-              description: "API para WhatsApp com diversos recursos",
+              description: "API for bulk messaging on WhatsApp",
               url: "https://whitelabel.apibrasil.com.br",
           }
       ],
