@@ -1,4 +1,4 @@
-## Hey, how've you been? I'm John a software engineer based in Brazil 🇧🇷✈️
+## Jhon, a software engineer 🇧🇷✈️
 
 👨‍💻  <strong>Skills:</strong> PHP, Laravel, Node JS, Python, MYSQL, DevOps, JavaScript, Cordova, React Native, Linux <br />
 🧰  <strong>Tools:</strong> Visual Code, Git, Workbench, Putty, Figma, Photoshop, Adobe XD <br />
