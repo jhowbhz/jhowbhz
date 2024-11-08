@@ -27,7 +27,7 @@
 
 ✔️ [APIBrasil](https://apibrasil.com.br "Clique e acesse agora!")
 ✔️ [DivulgaWhats](https://divulgawhats.com "Clique e acesse agora!")
-✔️ [ConsultaPlacas](https://consultaplacas.com.br "Clique e acesse agora!")
+✔️ [BetBlocker](https://bet-blocker.com "Clique e acesse agora!")
 <br />
 ⏱️ [PesquisaSeguro](https://pesquisaseguro.com.br "Projeto em andamento...")
 ⏱️ [ProgramadorBrasil](https://programadorbrasil.com.br "Projeto em andamento...")
