@@ -17,7 +17,7 @@
 [![STACKOVERFLOW](https://img.shields.io/badge/Stackoverflow-F47F24?style=flat-square&&logo=stackoverflow&logoColor=white)](https://pt.stackoverflow.com/users/128217/jhowbhz)
 [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&&logo=x&logoColor=white)](https://x.com/jhowbhz)
 
-<p> 💀 <strong>Last activity</strong></p>
+<p> 💀 <strong>Activity</strong></p>
 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D23147%26project%3D%26in=0)](https://codetime.dev)
 
