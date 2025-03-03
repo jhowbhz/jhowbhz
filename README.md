@@ -1,9 +1,8 @@
 ## Jhon, a software engineer 🇧🇷✈️
 
-👨‍💻  <strong>Languages:</strong> PHP, Python, JavaScript, TypeScript, Go Lang, Bash <br />
-🧰  <strong>Frameworks/Libs:</strong> Laravel, Zend, Cordova, React, Vue <br />
-🎨  <strong>UI/UX:</strong> Figma, Photoshop, Adobe XD <br />
-📦  <strong>Databases:</strong> MySQL, SQLite, SQL Server, Postgress, Mongo<br />
+👨‍💻  <strong>Languages:</strong> PHP, Python, JavaScript, TypeScript, Go, Bash <br />
+🧰  <strong>Frameworks/Libs:</strong> Laravel, React, Vue, Cordova <br />
+📦  <strong>Databases:</strong> MySQL, SQLite, Postgress, Mongo<br />
 👴  <strong>Experience:</strong> 8 years, sênior<br />
 
 🔖 <a href="https://gist.github.com/jhowbhz" target="_blank"> <strong>Soft drafts</strong> </a> </p>
