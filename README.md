@@ -1,7 +1,7 @@
 ## Jhon, a software engineer 🇧🇷✈️
 
-👨‍💻  <strong>Languages:</strong> PHP, Python, JavaScript, TypeScript, Go, Bash <br />
-🧰  <strong>Frameworks/Libs:</strong> Laravel, React, Vue, Cordova <br />
+👨‍💻  <strong>Languages:</strong> PHP, Python, JavaScript, TypeScript, Go, Ruby, Bash <br />
+🧰  <strong>Frameworks/Libs:</strong> Laravel, React, Vue, Rails, Cordova <br />
 📦  <strong>Databases:</strong> MySQL, SQLite, Postgress, Mongo<br />
 👴  <strong>Experience:</strong> 8 years, sênior<br />
 
