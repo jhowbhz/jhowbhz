@@ -27,7 +27,7 @@
 
 <div align="center">
   
-✅ [APIBrasil](https://apibrasil.com.br "Clique e acesse agora!") ✅ [DivulgaWhats](https://divulgawhats.com "Clique e acesse agora!") ✅ [BetBlocker](https://bet-blocker.com "Clique e acesse agora!") ⏱️ [PesquisaSeguro](https://pesquisaseguro.com.br "Projeto em andamento...") ⏱️ [ProgramadorBrasil](https://programadorbrasil.com.br "Projeto em andamento...")
+✅ [APIBrasil](https://github.com/apibrasil "Clique e acesse agora!") ✅ [DivulgaWhats](https://github.com/divulgawhats "Clique e acesse agora!") ✅ [BetBlocker](https://github.com/bet-blocker "Clique e acesse agora!") ⏱️ [PesquisaSeguro](https://pesquisaseguro.com.br "Projeto em andamento...") ⏱️ [ProgramadorBrasil](https://programadorbrasil.com.br "Projeto em andamento...")
 
 ![Snake animation](https://github.com/jhowbhz/jhowbhz/blob/master/github-user-contribution.svg)
 
