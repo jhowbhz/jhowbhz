@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://apibrasil.com.br/sitemap.xml
+
+# Host preferido
+Host: https://apibrasil.com.br
