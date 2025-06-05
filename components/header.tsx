@@ -105,7 +105,7 @@ export default function Header() {
                   width={160}
                   height={43}
                   priority={true}
-                  className="logo-critical transition-opacity duration-200 group-hover:opacity-90 p-2"
+                  className="logo-critical transition-opacity duration-200 group-hover:opacity-90 pt-2"
                 />
               </motion.div>
             </Link>
