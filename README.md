@@ -20,6 +20,7 @@
 <p> 💀 <strong>Activity</strong></p>
 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D23147)](https://codetime.dev)
+
 🔖 <a href="https://gist.github.com/jhowbhz" target="_blank"> <strong>My soft drafts</strong> </a> </p>
 
 <hr />
