@@ -6,5 +6,5 @@
   <rect x="168" y="17" width="96" height="20" rx="10" fill="#22c55e" fill-opacity="0.12" stroke="#22c55e" stroke-opacity="0.6"/>
   <circle cx="180" cy="27" r="3" fill="#22c55e"/>
   <text x="187" y="31" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#22c55e">In production</text>
-  <text y="60" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="11.5" fill="#8b949e"><tspan x="18" dy="0">Support software for live streams and</tspan><tspan x="18" dy="16">sales</tspan></text>
+  <text y="60" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="11.5" fill="#8b949e"><tspan x="18" dy="0">Support software for live streams, sales</tspan><tspan x="18" dy="16">and customer service</tspan></text>
 </svg>
