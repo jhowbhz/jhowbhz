@@ -25,12 +25,12 @@
 nome:        Jonathan (Jhon)
 local:       Brasil, Minas Gerais 🇧🇷
 cargo:       Senior Software Engineer & Founder
-experiencia: 9 anos de código, construindo produtos em produção
+tempo:       9 anos de código, construindo produtos em produção
 foco:        APIs, SaaS, integrações e infraestrutura
 agora:       escalando a APIBrasil e lançando novos produtos
 ```
 
-- Fundador da **[APIBrasil](https://github.com/apibrasil)** - plataforma de APIs para desenvolvedores e empresas brasileiras
+- Fundador da **[APIBrasil](https://apibrasil.io)** - plataforma de APIs para desenvolvedores e empresas brasileiras
 - Da arquitetura ao deploy: backend, frontend, DevOps e observabilidade
 - Compartilho conteúdo técnico no YouTube e no blog da APIBrasil
 - Fale comigo sobre **APIs, automação, SaaS e infraestrutura**
@@ -48,11 +48,11 @@ agora:       escalando a APIBrasil e lançando novos produtos
 ### 🚀 Projetos
 
 <p>
-  <a href="https://github.com/apibrasil"><img src="assets/projects/apibrasil.svg" width="32.5%" alt="APIBrasil" /></a>
+  <a href="https://apibrasil.io"><img src="assets/projects/apibrasil.svg" width="32.5%" alt="APIBrasil" /></a>
   <a href="https://aut2fa.com"><img src="assets/projects/aut2fa.svg" width="32.5%" alt="Aut2FA" /></a>
   <a href="https://livecopiloto.com"><img src="assets/projects/livecopiloto.svg" width="32.5%" alt="Live Copiloto" /></a>
   <a href="https://ageofagents.io"><img src="assets/projects/ageofagents.svg" width="32.5%" alt="Age of Agents" /></a>
-  <a href="https://github.com/divulgawhats"><img src="assets/projects/divulgawhats.svg" width="32.5%" alt="DivulgaWhats" /></a>
+  <a href="https://divulgawhats.com"><img src="assets/projects/divulgawhats.svg" width="32.5%" alt="DivulgaWhats" /></a>
   <a href="https://github.com/jhowbhz?tab=repositories"><img src="assets/projects/more.svg" width="32.5%" alt="Mais projetos" /></a>
 </p>
 
