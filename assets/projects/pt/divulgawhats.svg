@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="100" viewBox="0 0 280 100">
+  <rect x="0.5" y="0.5" width="279" height="99" rx="10" fill="#0d1117" stroke="#8b949e" stroke-opacity="0.55" stroke-width="1" stroke-dasharray="5 4"/>
+  <rect x="18" y="20" width="3" height="16" rx="1.5" fill="#22c55e"/>
+  <text x="27" y="33" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#f0f6fc">DivulgaWhats</text>
+  
+  <rect x="168" y="17" width="96" height="20" rx="10" fill="#22c55e" fill-opacity="0.12" stroke="#22c55e" stroke-opacity="0.6"/>
+  <circle cx="180" cy="27" r="3" fill="#22c55e"/>
+  <text x="187" y="31" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#22c55e">Em produção</text>
+  <text y="60" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="11.5" fill="#8b949e"><tspan x="18" dy="0">Ferramentas para divulgação via WhatsApp</tspan></text>
+</svg>
