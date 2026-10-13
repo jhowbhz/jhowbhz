@@ -1,12 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190">
   <defs>
     <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#22c55e" stop-opacity="0.11"/>
-      <stop offset="50%" stop-color="#22c55e" stop-opacity="0.035"/>
+      <stop offset="0%" stop-color="#22c55e" stop-opacity="0.06"/>
+      <stop offset="50%" stop-color="#22c55e" stop-opacity="0.018"/>
       <stop offset="100%" stop-color="#22c55e" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <ellipse cx="500" cy="95" rx="340" ry="72" fill="url(#glow)"/>
+  <ellipse cx="500" cy="95" rx="320" ry="66" fill="url(#glow)"/>
+  <g transform="translate(14 14)" opacity="0.85">
+    <rect width="30" height="21" rx="3" fill="#009c3b"/>
+    <path d="M15 2.6 L27.4 10.5 L15 18.4 L2.6 10.5 Z" fill="#ffdf00"/>
+    <circle cx="15" cy="10.5" r="4.6" fill="#002776"/>
+    <path d="M10.6 9.6 Q15 8.4 19.4 11.2" stroke="#ffffff" stroke-width="0.9" fill="none"/>
+  </g>
   <text x="500" y="100" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#f0f6fc">Jonathan - Jhon</text>
   <text x="500" y="135" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="18" font-weight="500" fill="#22c55e">Senior Software Engineer · Founder APIBrasil</text>
 </svg>
