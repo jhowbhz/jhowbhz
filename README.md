@@ -25,7 +25,7 @@
 name:        Jonathan (Jhon)
 location:    Brazil, Minas Gerais 🇧🇷
 role:        Senior Software Engineer & Founder
-time:        9 years of coding, shipping products to production
+time:        12 years of coding, shipping products to production
 focus:       APIs, SaaS, integrations and infrastructure
 now:         scaling APIBrasil and launching new products
 ```
@@ -48,7 +48,7 @@ now:         scaling APIBrasil and launching new products
 ### Projects
 
 <p>
-  <a href="https://apibrasil.io"><img src="assets/projects/apibrasil.svg?v=3" width="32.5%" alt="APIBrasil" /></a>
+  <a href="https://apibrasil.io"><img src="assets/projects/apibrasil.svg?v=4" width="32.5%" alt="APIBrasil" /></a>
   <a href="https://divulgawhats.com"><img src="assets/projects/divulgawhats.svg?v=3" width="32.5%" alt="DivulgaWhats" /></a>
   <a href="https://livecopiloto.com"><img src="assets/projects/livecopiloto.svg?v=3" width="32.5%" alt="Live Copiloto" /></a>
   <a href="https://ageofagents.io"><img src="assets/projects/ageofagents.svg?v=3" width="32.5%" alt="Age of Agents" /></a>
