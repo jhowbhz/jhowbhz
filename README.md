@@ -1,34 +1,71 @@
-## Jhon, a software engineer 🇧🇷✈️
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=160&section=header&text=Jonathan%20-%20Jhon&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Senior%20Software%20Engineer%20%C2%B7%20Founder%20APIBrasil&descAlignY=66&descSize=17&descColor=22c55e&animation=fadeIn" alt="header" width="100%" />
+</p>
 
-👨‍💻  <strong>Languages:</strong> PHP, Python, JavaScript, TypeScript, Go, Ruby, Bash <br />
-🧰  <strong>Frameworks/Libs:</strong> Laravel, React, Vue, Rails, Cordova <br />
-📦  <strong>Databases:</strong> MySQL, SQLite, Postgress, Mongo<br />
-👴  <strong>Experience:</strong> 8 years, sênior<br />
+<p align="center">
+  <a href="https://codetime.dev"><img src="https://shields.jannchie.com/endpoint?style=for-the-badge&color=0f172a&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D23147" alt="CodeTime" /></a>
+  <img src="https://komarev.com/ghpvc/?username=jhowbhz&style=for-the-badge&color=16a34a&label=VISITAS" alt="visitas" />
+  <a href="https://www.linkedin.com/in/jhowbhz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/jhowbhz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://pt.stackoverflow.com/users/128217/jhowbhz"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://apibrasil.io"><img src="https://img.shields.io/badge/APIBrasil-16A34A?style=for-the-badge&logo=icloud&logoColor=white" /></a>
+  <a href="https://gist.github.com/jhowbhz"><img src="https://img.shields.io/badge/Gists-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-<p> :rocket: <strong>DevOps </strong></p>
+---
 
-![Infrastructure Manager](https://img.shields.io/badge/Hosting%20Manager-8A2BE2?style=flat-square&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+### 👨‍💻 Sobre mim
 
-<p> 📫 <strong>Contact me</strong></p>
+```yaml
+nome:        Jonathan (Jhon)
+local:       Brasil, Minas Gerais 🇧🇷
+cargo:       Senior Software Engineer & Founder
+experiencia: 9 anos de código, construindo produtos em produção
+foco:        APIs, SaaS, integrações e infraestrutura
+agora:       escalando a APIBrasil e lançando novos produtos
+```
 
-[![LINKEDIN](https://img.shields.io/badge/Linkedin-0072b1?style=flat-square&&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhowbhz/)
-[![STACKOVERFLOW](https://img.shields.io/badge/Stackoverflow-F47F24?style=flat-square&&logo=stackoverflow&logoColor=white)](https://pt.stackoverflow.com/users/128217/jhowbhz)
-[![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&&logo=x&logoColor=white)](https://x.com/jhowbhz)
+- Fundador da **[APIBrasil](https://github.com/apibrasil)** - plataforma de APIs para desenvolvedores e empresas brasileiras
+- Da arquitetura ao deploy: backend, frontend, DevOps e observabilidade
+- Compartilho conteúdo técnico no YouTube e no blog da APIBrasil
+- Fale comigo sobre **APIs, automação, SaaS e infraestrutura**
 
-<p> 💀 <strong>Activity</strong></p>
+---
 
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D23147)](https://codetime.dev)
+### 🧰 Stack
 
-🔖 <a href="https://gist.github.com/jhowbhz" target="_blank"> <strong>My soft drafts</strong> </a> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,go,nodejs,ts,vue,mysql,postgres,redis,rabbitmq,docker,nginx&perline=12" height="34" alt="stack" />
+</p>
 
-<hr />
+---
 
-<div align="center">
-  
-✅ [APIBrasil](https://github.com/apibrasil "Clique e acesse agora!") ✅ [DivulgaWhats](https://github.com/divulgawhats "Clique e acesse agora!") ✅ [BetBlocker](https://github.com/bet-blocker "Clique e acesse agora!") ⏱️ [PesquisaSeguro](https://pesquisaseguro.com.br "Projeto em andamento...") ⏱️ [ProgramadorBrasil](https://programadorbrasil.com.br "Projeto em andamento...")
+### 🚀 Projetos
 
-![Snake animation](https://github.com/jhowbhz/jhowbhz/blob/master/github-user-contribution.svg)
+<p>
+  <a href="https://github.com/apibrasil"><img src="assets/projects/apibrasil.svg" width="49%" alt="APIBrasil" /></a>
+  <a href="https://aut2fa.com"><img src="assets/projects/aut2fa.svg" width="49%" alt="Aut2FA" /></a>
+  <a href="https://livecopiloto.com"><img src="assets/projects/livecopiloto.svg" width="49%" alt="Live Copiloto" /></a>
+  <a href="https://ageofagents.io"><img src="assets/projects/ageofagents.svg" width="49%" alt="Age of Agents" /></a>
+  <a href="https://github.com/divulgawhats"><img src="assets/projects/divulgawhats.svg" width="49%" alt="DivulgaWhats" /></a>
+</p>
 
-</div>  
+---
+
+### 📊 GitHub em números
+
+<p align="center">
+  <img width="35.5%" src="https://github-readme-stats.vercel.app/api?username=jhowbhz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22c55e&icon_color=22c55e&include_all_commits=true&count_private=true" />
+  <img width="24%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhowbhz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22c55e&langs_count=8" />
+  <img width="39%" src="https://streak-stats.demolab.com?user=jhowbhz&theme=tokyonight&hide_border=true&background=0f172a&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jhowbhz/jhowbhz/output/github-snake-dark.svg" alt="snake" width="100%" />
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d24,100:0d1117&height=110&section=footer" width="100%" />
+</p>
