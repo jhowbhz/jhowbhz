@@ -22,7 +22,7 @@ jobs:
 
       - name: Crop empty space around the grid
         run: |
-          python3 - <<'PY'
+          sudo python3 - <<'PY'
           import re
           p = "dist/github-snake-dark.svg"
           s = open(p).read()
