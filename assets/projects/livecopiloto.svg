@@ -3,9 +3,9 @@
   <rect x="24" y="22" width="3" height="18" rx="1.5" fill="#22c55e"/>
   <text x="35" y="37" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#f0f6fc">Live Copiloto</text>
   <g>
-    <rect x="336" y="20" width="64" height="24" rx="12" fill="#22c55e" fill-opacity="0.12" stroke="#22c55e" stroke-opacity="0.6"/>
-    <circle cx="351" cy="32" r="3.5" fill="#22c55e"/>
-    <text x="360" y="36.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#22c55e">Ativo</text>
+    <rect x="294" y="20" width="106" height="24" rx="12" fill="#22c55e" fill-opacity="0.12" stroke="#22c55e" stroke-opacity="0.6"/>
+    <circle cx="309" cy="32" r="3.5" fill="#22c55e"/>
+    <text x="318" y="36.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#22c55e">Em produção</text>
   </g>
   <text y="64" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e"><tspan x="24" dy="0">Software de apoio para lives e vendas</tspan></text>
 </svg>
