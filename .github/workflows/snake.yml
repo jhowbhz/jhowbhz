@@ -20,6 +20,20 @@ jobs:
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#22c55e&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
+      - name: Crop empty space around the grid
+        run: |
+          python3 - <<'PY'
+          import re
+          p = "dist/github-snake-dark.svg"
+          s = open(p).read()
+          m = re.search(r'viewBox="(-?[\d.]+) (-?[\d.]+) ([\d.]+) ([\d.]+)" width="[\d.]+" height="[\d.]+"', s)
+          x, y, w, h = map(float, m.groups())
+          nw = w + 2 * x
+          nh = 112
+          s = s[:m.start()] + f'viewBox="0 0 {nw:g} {nh}" width="{nw:g}" height="{nh}"' + s[m.end():]
+          open(p, "w").write(s)
+          PY
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
