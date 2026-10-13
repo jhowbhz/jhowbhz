@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jhowbhz/jhowbhz/output/github-snake-dark.svg" alt="snake" width="80%" />
+  <img src="https://raw.githubusercontent.com/jhowbhz/jhowbhz/output/github-snake-dark.svg" alt="snake" width="100%" />
 </p>
 
 ---
@@ -64,9 +64,4 @@ agora:       escalando a APIBrasil e lançando novos produtos
   <img width="35.5%" src="https://github-readme-stats.vercel.app/api?username=jhowbhz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22c55e&icon_color=22c55e&include_all_commits=true&count_private=true" />
   <img width="24%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhowbhz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=22c55e&langs_count=8" />
   <img width="39%" src="https://streak-stats.demolab.com?user=jhowbhz&theme=tokyonight&hide_border=true&background=0f172a&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d24,100:0d1117&height=110&section=footer" width="100%" />
 </p>
