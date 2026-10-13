@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/jhowbhz/jhowbhz/blob/master/README.pt-BR.md"><img src="assets/flag-br.svg" height="18" align="right" alt="Ver em português" /></a>
-  <img src="assets/header.svg" alt="Jonathan - Jhon" width="100%" />
+  <a href="https://github.com/jhowbhz/jhowbhz/blob/master/README.pt-BR.md"><img src="assets/flag-br.svg?v=3" height="18" align="right" alt="Ver em português" /></a>
+  <img src="assets/header.svg?v=3" alt="Jonathan - Jhon" width="100%" />
 </p>
 
 <p align="center">
@@ -48,12 +48,12 @@ now:         scaling APIBrasil and launching new products
 ### Projects
 
 <p>
-  <a href="https://apibrasil.io"><img src="assets/projects/apibrasil.svg" width="32.5%" alt="APIBrasil" /></a>
-  <a href="https://divulgawhats.com"><img src="assets/projects/divulgawhats.svg" width="32.5%" alt="DivulgaWhats" /></a>
-  <a href="https://livecopiloto.com"><img src="assets/projects/livecopiloto.svg" width="32.5%" alt="Live Copiloto" /></a>
-  <a href="https://ageofagents.io"><img src="assets/projects/ageofagents.svg" width="32.5%" alt="Age of Agents" /></a>
-  <a href="https://casadoscodigos.com.br"><img src="assets/projects/casadoscodigos.svg" width="32.5%" alt="Casa dos Códigos" /></a>
-  <a><img src="assets/projects/more.svg" width="32.5%" alt="More projects" /></a>
+  <a href="https://apibrasil.io"><img src="assets/projects/apibrasil.svg?v=3" width="32.5%" alt="APIBrasil" /></a>
+  <a href="https://divulgawhats.com"><img src="assets/projects/divulgawhats.svg?v=3" width="32.5%" alt="DivulgaWhats" /></a>
+  <a href="https://livecopiloto.com"><img src="assets/projects/livecopiloto.svg?v=3" width="32.5%" alt="Live Copiloto" /></a>
+  <a href="https://ageofagents.io"><img src="assets/projects/ageofagents.svg?v=3" width="32.5%" alt="Age of Agents" /></a>
+  <a href="https://casadoscodigos.com.br"><img src="assets/projects/casadoscodigos.svg?v=3" width="32.5%" alt="Casa dos Códigos" /></a>
+  <a><img src="assets/projects/more.svg?v=3" width="32.5%" alt="More projects" /></a>
 </p>
 
 ---

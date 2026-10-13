@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/jhowbhz"><img src="assets/flag-us.svg" height="18" align="right" alt="View in English" /></a>
-  <img src="assets/header.svg" alt="Jonathan - Jhon" width="100%" />
+  <a href="https://github.com/jhowbhz"><img src="assets/flag-us.svg?v=3" height="18" align="right" alt="View in English" /></a>
+  <img src="assets/header.svg?v=3" alt="Jonathan - Jhon" width="100%" />
 </p>
 
 <p align="center">
@@ -48,12 +48,12 @@ agora:       escalando a APIBrasil e lançando novos produtos
 ### Projetos
 
 <p>
-  <a href="https://apibrasil.io"><img src="assets/projects/pt/apibrasil.svg" width="32.5%" alt="APIBrasil" /></a>
-  <a href="https://divulgawhats.com"><img src="assets/projects/pt/divulgawhats.svg" width="32.5%" alt="DivulgaWhats" /></a>
-  <a href="https://livecopiloto.com"><img src="assets/projects/pt/livecopiloto.svg" width="32.5%" alt="Live Copiloto" /></a>
-  <a href="https://ageofagents.io"><img src="assets/projects/pt/ageofagents.svg" width="32.5%" alt="Age of Agents" /></a>
-  <a href="https://casadoscodigos.com.br"><img src="assets/projects/pt/casadoscodigos.svg" width="32.5%" alt="Casa dos Códigos" /></a>
-  <a><img src="assets/projects/pt/more.svg" width="32.5%" alt="Mais projetos" /></a>
+  <a href="https://apibrasil.io"><img src="assets/projects/pt/apibrasil.svg?v=3" width="32.5%" alt="APIBrasil" /></a>
+  <a href="https://divulgawhats.com"><img src="assets/projects/pt/divulgawhats.svg?v=3" width="32.5%" alt="DivulgaWhats" /></a>
+  <a href="https://livecopiloto.com"><img src="assets/projects/pt/livecopiloto.svg?v=3" width="32.5%" alt="Live Copiloto" /></a>
+  <a href="https://ageofagents.io"><img src="assets/projects/pt/ageofagents.svg?v=3" width="32.5%" alt="Age of Agents" /></a>
+  <a href="https://casadoscodigos.com.br"><img src="assets/projects/pt/casadoscodigos.svg?v=3" width="32.5%" alt="Casa dos Códigos" /></a>
+  <a><img src="assets/projects/pt/more.svg?v=3" width="32.5%" alt="Mais projetos" /></a>
 </p>
 
 ---
